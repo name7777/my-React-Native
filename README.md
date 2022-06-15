@@ -1,2 +1,0 @@
-# my-React-Native
-practice
